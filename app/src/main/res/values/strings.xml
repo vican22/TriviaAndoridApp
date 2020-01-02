@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title">Trivia</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="previous_button">previous button</string>
+    <string name="next_button">next button</string>
+    <string name="counter_questions">0 out of 100</string>
+    <string name="correct_answer">Correct!!!</string>
+    <string name="wrong_answer">Wrong!!!</string>
+    <string name="score">0 out of 100</string>
+    <string name="txt_temp">Hello there is where we are going to add smtng</string>
+    <string name="highest_score">1999</string>
+    <string name="new_game">New Game</string>
+    <string name="new_game_msg">NEW GAME</string>
+</resources>
